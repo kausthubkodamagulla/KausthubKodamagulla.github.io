@@ -2,7 +2,7 @@
 .no-js #experience-timeline > div h3 {
     font-size: 1.5em;
     font-weight: 500;
-    color: #007bff; /* Blue color for headings */
+    color: #1a237; /* Blue color for headings */
     display: inline-block;
     margin: 0;
 }
@@ -10,7 +10,7 @@
 .no-js #experience-timeline > div h4 {
     font-size: 1.2em;
     font-weight: 300;
-    color: #6c757d; /* Dark gray color for subheadings */
+    color: #2e2e2e; /* Dark gray color */
     margin: 0 0 15px 0;
 }
 
@@ -39,7 +39,7 @@ header {
 
 header ul {
     display: inline-block;
-    background: #007bff; /* Blue color for header background */
+    background: #1a237e; /* Blue color for header background */
     text-align: center;
     padding: 10px;
     margin: 0;
@@ -99,14 +99,14 @@ header.sticky {
     z-index: 20;
     padding: 0 7px;
     border-radius: 4px;
-    background: #007bff; /* Blue color for mobile menu icon */
+    background: #1a237e; /* Blue color for mobile menu icon */
 }
 
 #mobile-menu-close {
     display: none;
     text-align: right;
     width: 100%;
-    background: #0062cc; /* Darker blue for mobile menu close button */
+    background: #1a237e; /* Darker blue for mobile menu close button */
     font-size: 1.5em;
     padding-right: 15px;
     padding-top: 10px;
@@ -186,16 +186,16 @@ footer {
 
 .btn-rounded-white {
     display: inline-block;
-    color: #2805b3; /* Dark blue color for button text */
+    color: #1a237e; /* Dark blue color for button text */
     padding: 15px 25px;
-    border: 3px solid #1a05c6; /* Darker blue border */
+    border: 3px solid #1a237e; /* Darker blue border */
     border-radius: 30px;
     transition: 0.5s ease all;
 }
 
 .btn-rounded-white:hover {
     color: #ffffff; /* White color on hover */
-    background: #190086; /* Dark blue background on hover */
+    background: #1a237e; /* Dark blue background on hover */
     text-decoration: none;
 }
 
@@ -224,7 +224,7 @@ footer {
     left: 0;
     right: 0;
     margin: 0 auto;
-    background: #0066cc; /* Blue color for heading underline */
+    background: #1a237e; /* Blue color for heading underline */
 }
 
 .background-alt {
@@ -236,7 +236,7 @@ footer {
     height: 100vh;
     min-height: 500px;
     max-height: 1080px;
-    background: url(../images/796835.jpg); /* Background image */
+    background: url(..images/1700631624431.jpg); /* Background image */
     background-size: cover;
     padding: 15px;
     overflow: hidden;
@@ -369,7 +369,7 @@ footer {
     right: auto;
     height: 100%;
     width: 3px;
-    background: #007bff; /* Blue color for timeline */
+    background: #1a237e; /* Blue color for timeline */
     z-index: 0;
 }
 
@@ -425,7 +425,7 @@ footer {
     color: #ffffff; /* White color for timeline icon */
     width: 50px;
     height: 50px;
-    background: #007bff; /* Blue color for timeline icon background */
+    background: #1a237e; /* Blue color for timeline icon background */
     border-radius: 50%;
     float: left;
     z-index: 99;
@@ -585,7 +585,7 @@ footer {
 #contact {
     padding: 50px 
 15px;
-    background: #007bff; /* Blue background for contact section */
+    background: #1a237e; /* Blue background for contact section */
     text-align: center;
 }
 
@@ -652,8 +652,8 @@ footer {
     background: #ffffff; /* White background for button */
     border-radius: 4px;
     padding: 5px 10px;
-    border: 1px solid #007bff; /* Blue border for button */
-    color: #007bff; /* Blue color for button text */
+    border: 1px solid #1a237e; /* Blue border for button */
+    color: #1a237e; /* Blue color for button text */
     font-weight: 700;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     transition: 0.5s ease all;
