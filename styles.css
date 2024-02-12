@@ -253,7 +253,8 @@ footer {
 
 #lead-content h1,
 #lead-content h2 {
-    margin: 15px;
+    margin: 20px;
+    margin-bottom: 15px;
 }
 
 #lead-content h1 {
@@ -263,13 +264,14 @@ footer {
     text-transform: uppercase;
     letter-spacing: 0.05em;
     line-height: 0.9em;
+    margin-bottom: 20px;
 }
 
 #lead-content h2 {
     color: #ffffff; /* White color for subheading */
     font-weight: 500;
     font-size: 2.25em;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 }
 
 #lead-overlay {
